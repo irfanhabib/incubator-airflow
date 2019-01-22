@@ -594,6 +594,7 @@ BigQuery Operators
 - :ref:`BigQueryDeleteDatasetOperator` : Deletes an existing BigQuery dataset.
 - :ref:`BigQueryTableDeleteOperator` : Deletes an existing BigQuery table.
 - :ref:`BigQueryOperator` : Executes BigQuery SQL queries in a specific BigQuery database.
+- :ref:`BigQueryTableDeleteOperator`: Deletes BigQuery tables
 - :ref:`BigQueryToBigQueryOperator` : Copy a BigQuery table to another BigQuery table.
 - :ref:`BigQueryToCloudStorageOperator` : Transfers a BigQuery table to a Google Cloud Storage bucket
 
